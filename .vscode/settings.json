@@ -1,0 +1,8 @@
+{
+  "chat.agentSkillsLocations": {
+    "skills": false
+  },
+  "chat.agentFilesLocations": {
+    "com.github.copilot/agents": true
+  }
+}
